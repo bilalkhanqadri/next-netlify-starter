@@ -11,13 +11,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+      {  /*  <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+         <Footer /> */}
+         <iframe src="https://sway.office.com/j773HBlnObjhDPIb"></iframe>
       </main>
-<h1> something </h1>
-  {/* <Footer /> */}
+
+
     </div>
   )
 }
